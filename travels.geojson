@@ -29,6 +29,45 @@
           -33.88
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Place": "Fremont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.988611,
+          37.548333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Place": "Ames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.62,
+          42.034722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Place": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8,
+          1.3
+        ]
+      }
     }
   ]
 }
